@@ -1,0 +1,23 @@
+exe4/bn4
+
+BLUEMOON
+
+EXE
+character sprites at 68E040
+palette for sprite viewer 68DF84
+BN
+character sprites at 68DD80
+palette for sprite viewer 68DCC4
+goes until 68F800
+
+68F780
+
+REDSUN
+
+EXE
+characters 68E260
+palette 68E1A4
+BN
+characters 68DFA0
+palette 68DEE4
+
