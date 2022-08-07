@@ -1,9 +1,43 @@
-@archive 7459D4
-@size 256
-
+@archive 6E2D18
+@size 11
 script 0 mmbn4s {
+	"Fシエツ1"
 	end
 }
+script 1 mmbn4s {
+	"Fシエツ2"
+	end
+}
+script 2 mmbn4s {
+	"-Fソシエオツ"
+	end
+}
+script 3 mmbn4s {
+	"XトツアFシエツ"
+	end
+}
+script 4 mmbn4s {
+	"Xカソシエオツ"
+	end
+}
+script 5 mmbn4s {
+	"MツFソシエオツ"
+	end
+}
+script 6 mmbn4s {
+	"-Fソシエオツ"
+	end
+}
+script 7 mmbn4s {
+	"-Fソシエオツ"
+	end
+}
+script 10 mmbn4s {
+	"Pアウサ"
+	end
+}
+@archive 7459D4
+@size 256
 script 1 mmbn4s {
 	"Cアセセソセ"
 	end
@@ -1002,7 +1036,6 @@ script 255 mmbn4s {
 }
 @archive 74636C
 @size 133
-
 script 0 mmbn4s {
 	"WソソエMセDS"
 	end
@@ -1412,7 +1445,7 @@ script 120 mmbn4s {
 	end
 }
 script 121 mmbn4s {
-	"FアツトFヌエ"
+	"FアテトFヌエ"
 	end
 }
 script 122 mmbn4s {
@@ -1490,7 +1523,7 @@ script 6 mmbn4s {
 	end
 }
 script 7 mmbn4s {
-	"FツトBアツツ"
+	"FテトBアツツ"
 	end
 }
 script 8 mmbn4s {
@@ -1701,6 +1734,9 @@ script 8 mmbn4s {
 	Hオアト-V  D
 	HオアトSケエオD
 	"""
+	end
+}
+script 9 mmbn4s {
 	end
 }
 script 10 mmbn4s {
