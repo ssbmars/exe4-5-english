@@ -11,10 +11,11 @@ patchnames = {
 txt = ""
 base = ""
 latest = ""
+overrides = ""
 for game in games:
 	try:
 		# load _versions file into memory and fetch the latest version number to print out
-		with open("tango_patches/{}_versions.toml".format(game), 'r') as file:
+		with open("tango_patches/{}_versions.toml".format(game), 'r', encoding = 'utf-8') as file:
 			txt = file.read()
 			latest = re.findall("(?<=')\d\.\d\.\d(?='\])",txt)
 			if len(latest) > 0:
@@ -27,15 +28,21 @@ for game in games:
 	except IOError:
 		print("_versions: Could not open file.")
 	try:
-		with open("tango_patches/{}_versions.toml".format(game), 'a') as file:
+		with open("tango_patches/{}_saveedit.txt".format(game), 'r', encoding = 'utf-8') as file:
+			overrides = file.read()
+	except IOError:
+		print("_saveedit: Could not open file.")
+	try:
+		with open("tango_patches/{}_versions.toml".format(game), 'a', encoding = 'utf-8') as file:
 
 			# skip if user input is obviously invalid
 			if version == "" or len(version) < 5:
 				continue
 			append = "[versions.'{}']\n".format(version)
+			append += "saveedit_overrides = {{ charset = \"{}\" }}\n".format(overrides)
 			append += "netplay_compatibility = \"exe{}\"\n".format(game)
 			txt += append
-			file.write(append)
+			#file.write(append)
 	except IOError:
 		print("_versions: Could not open file.")
 
@@ -51,7 +58,7 @@ for game in games:
 
 	os.mkdir("tango_patches/exe{}_english/v{}".format(game,version),0o666)
 
-	newfile = open("tango_patches/exe{}_english/info.toml".format(game,version), 'w')
+	newfile = open("tango_patches/exe{}_english/info.toml".format(game,version), 'w', encoding = 'utf-8')
 	bb = newfile.write(txt)
 	newfile.close()
 
