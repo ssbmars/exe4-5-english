@@ -21,3 +21,58 @@ BN
 characters 68DFA0
 palette 68DEE4
 
+
+extra text stuff
+
+library
+
+BLUEMOON
+
+EXE
+08691B40
+
+
+dialog text
+
+BLUE MOON
+
+EXE
+capital	08697340 - 08697D00		0x9C0
+lower	0869A900 - 0869B2A0		0x9A0
+BN
+capital	08695160 - 08695B20		0x9C0
+lower	08695BA0 - 08696540		0x9A0
+
+
+
+REDO
+
+EXE	086C6C5C
+
+BN	6C80C0
+
+
+
+exe5/bn5
+
+
+BLUES
+
+EXE
+086E23D0
+BN
+lowercase 6CC3FC
+
+
+dialog font
+
+BLUES
+
+EXE
+86DAAA4
+
+
+small chip/ncp font
+
+086D11F0
+
