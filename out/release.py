@@ -23,15 +23,17 @@ for game in games:
 			else:
 				latest = "none"
 		# get input from user in format X.Y.Z
-		sys.stdout.write("New EXE {} version? Last = {} | v[X.Y.Z]： ".format(game,latest))
+		sys.stdout.write("New EXE {} version? Latest Ver = {} \nFormat = X.Y.Z \n".format(game,latest))
 		version = input()
 	except IOError:
 		print("_versions: Could not open file.")
+		continue
 	try:
 		with open("tango_patches/{}_saveedit.txt".format(game), 'r', encoding = 'utf-8') as file:
 			overrides = file.read()
 	except IOError:
 		print("_saveedit: Could not open file.")
+		continue
 	try:
 		with open("tango_patches/{}_versions.toml".format(game), 'a', encoding = 'utf-8') as file:
 
@@ -39,12 +41,13 @@ for game in games:
 			if version == "" or len(version) < 5:
 				continue
 			append = "[versions.'{}']\n".format(version)
-			append += "saveedit_overrides = {{ charset = \"{}\" }}\n".format(overrides)
+			append += "saveedit_overrides = {{ charset = [{}] }}\n".format(overrides)
 			append += "netplay_compatibility = \"exe{}\"\n".format(game)
 			txt += append
-			#file.write(append)
+			file.write(append)
 	except IOError:
 		print("_versions: Could not open file.")
+		continue
 
 	# load the base of the info.toml file
 	try:
@@ -53,10 +56,12 @@ for game in games:
 
 	except IOError:
 		print("_base: Could not open file.")
+		continue
 
 	txt = base + txt
-
-	os.mkdir("tango_patches/exe{}_english/v{}".format(game,version),0o666)
+	folderpath = "tango_patches/exe{}_english/v{}".format(game,version)
+	if not os.path.exists(folderpath):
+		os.mkdir(folderpath,0o666)
 
 	newfile = open("tango_patches/exe{}_english/info.toml".format(game,version), 'w', encoding = 'utf-8')
 	bb = newfile.write(txt)
@@ -64,3 +69,5 @@ for game in games:
 
 	for name in patchnames[game]:
 		shutil.copy(name,"tango_patches/exe{}_english/v{}/{}".format(game,version,name))
+
+	sys.stdout.write("\nSUCCESS: EXE {} v{} created in path \"{}/\"\n\n".format(game, version,folderpath))
