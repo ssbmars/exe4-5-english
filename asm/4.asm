@@ -23,4 +23,31 @@
 .org exe4charset + 0xC640
 .import "rom\bn4bm.gba",0x695BA0,0x9A0
 
+// maybe this will fix weird open bus read issues
+// i hate bn4
+
+.org openbus0
+	mov r0,0
+.org openbus1
+	mov r0,0
+.org openbus2
+	mov r0,0
+.org openbus3
+	mov r0,0
+.org openbus4
+	mov r0,0
+.org openbus5
+	mov r0,0
+.org openbus6
+	mov r0,0
+.org openbus7
+	mov r0,0
+.org openbus8
+	mov r0,0
+.org openbus9
+	mov r0,0
+.org openbus10
+	mov r0,0
+.org openbus11
+	mov r0,0
 
