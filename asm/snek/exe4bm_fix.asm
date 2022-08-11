@@ -1,0 +1,24 @@
+.org openbus0
+	mov r0,0
+.org openbus1
+	mov r0,0
+.org openbus2
+	mov r0,0
+.org openbus3
+	mov r0,0
+.org openbus4
+	mov r0,0
+.org openbus5
+	mov r0,0
+.org openbus6
+	mov r0,0
+.org openbus7
+	mov r0,0
+.org openbus8
+	mov r0,0
+.org openbus9
+	mov r0,0
+.org openbus10
+	mov r0,0
+.org openbus11
+	mov r0,0
