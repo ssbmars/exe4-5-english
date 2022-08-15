@@ -11294,3 +11294,1305 @@ script 11 mmbn5s {
 	"OK"
 	end
 }
+@archive 6FF408
+@size 120
+script 1 mmbn5s {
+	"Mettaur"
+	end
+}
+script 2 mmbn5s {
+	"VolGear"
+	end
+}
+script 3 mmbn5s {
+	"Ghost"
+	end
+}
+script 4 mmbn5s {
+	"Swordy"
+	end
+}
+script 5 mmbn5s {
+	"Fishy"
+	end
+}
+script 6 mmbn5s {
+	"Piranha"
+	end
+}
+script 7 mmbn5s {
+	"Ratty"
+	end
+}
+script 8 mmbn5s {
+	"Billy"
+	end
+}
+script 9 mmbn5s {
+	"Candela"
+	end
+}
+script 10 mmbn5s {
+	"Anaconda"
+	end
+}
+script 11 mmbn5s {
+	"Mushy"
+	end
+}
+script 12 mmbn5s {
+	"Spikey"
+	end
+}
+script 13 mmbn5s {
+	"Puffball"
+	end
+}
+script 14 mmbn5s {
+	"Yort"
+	end
+}
+script 15 mmbn5s {
+	"Dominerd"
+	end
+}
+script 16 mmbn5s {
+	"Null"
+	end
+}
+script 17 mmbn5s {
+	"BrushMan"
+	end
+}
+script 18 mmbn5s {
+	"Scuttlst"
+	end
+}
+script 19 mmbn5s {
+	"SnowBlow"
+	end
+}
+script 20 mmbn5s {
+	"KillrEye"
+	end
+}
+script 21 mmbn5s {
+	"Quaker"
+	end
+}
+script 22 mmbn5s {
+	"Boomer"
+	end
+}
+script 23 mmbn5s {
+	"Lark"
+	end
+}
+script 24 mmbn5s {
+	"Moloko"
+	end
+}
+script 25 mmbn5s {
+	"Melody"
+	end
+}
+script 26 mmbn5s {
+	"Zomon"
+	end
+}
+script 27 mmbn5s {
+	"Catack"
+	end
+}
+script 28 mmbn5s {
+	"Champy"
+	end
+}
+script 29 mmbn5s {
+	"Whirly"
+	end
+}
+script 30 mmbn5s {
+	"Cactikil"
+	end
+}
+script 31 mmbn5s {
+	"Roll"
+	end
+}
+script 32 mmbn5s {
+	"GutsMan"
+	end
+}
+script 33 mmbn5s {
+	"FireMan"
+	end
+}
+script 34 mmbn5s {
+	"Bass"
+	end
+}
+script 35 mmbn5s {
+	"QuickMan"
+	end
+}
+script 36 mmbn5s {
+	"SnakeMan"
+	end
+}
+script 37 mmbn5s {
+	"BubblMan"
+	end
+}
+script 38 mmbn5s {
+	"FlameMan"
+	end
+}
+script 39 mmbn5s {
+	"MetalMan"
+	end
+}
+script 40 mmbn5s {
+	"ShadeMan"
+	end
+}
+script 41 mmbn5s {
+	"SparkMan"
+	end
+}
+script 42 mmbn5s {
+	"JunkMan"
+	end
+}
+script 43 mmbn5s {
+	"GyroMan"
+	end
+}
+script 44 mmbn5s {
+	"Meddy"
+	end
+}
+script 45 mmbn5s {
+	"CosmoMan"
+	end
+}
+script 46 mmbn5s {
+	"""
+	Chaud's
+	Custom
+	"""
+	end
+}
+script 47 mmbn5s {
+	"""
+	Mr.-
+	Match's
+	Custom
+	"""
+	end
+}
+script 48 mmbn5s {
+	"""
+	Count-
+	Zap's
+	Custom
+	"""
+	end
+}
+script 49 mmbn5s {
+	"""
+	Anetta's
+	Custom
+	"""
+	end
+}
+script 50 mmbn5s {
+	"""
+	Chill-
+	ski's
+	Custom
+	"""
+	end
+}
+script 51 mmbn5s {
+	"Bugtank"
+	end
+}
+script 52 mmbn5s {
+	"Powie"
+	end
+}
+script 53 mmbn5s {
+	"Froshell"
+	end
+}
+script 54 mmbn5s {
+	"HardHead"
+	end
+}
+script 55 mmbn5s {
+	"Cloudy"
+	end
+}
+script 56 mmbn5s {
+	"Gaia"
+	end
+}
+script 57 mmbn5s {
+	"Popper"
+	end
+}
+script 58 mmbn5s {
+	"Fan"
+	end
+}
+script 59 mmbn5s {
+	"Drain"
+	end
+}
+script 60 mmbn5s {
+	"Rush"
+	end
+}
+script 61 mmbn5s {
+	"Bunny"
+	end
+}
+script 62 mmbn5s {
+	"Flamey"
+	end
+}
+script 63 mmbn5s {
+	"Shrimpy"
+	end
+}
+script 64 mmbn5s {
+	"RedUFO"
+	end
+}
+script 65 mmbn5s {
+	"Ninjoy"
+	end
+}
+script 66 mmbn5s {
+	"Lavagon"
+	end
+}
+script 67 mmbn5s {
+	"Protecto"
+	end
+}
+script 68 mmbn5s {
+	"Basher"
+	end
+}
+script 69 mmbn5s {
+	"Pengi"
+	end
+}
+script 70 mmbn5s {
+	"Elebee"
+	end
+}
+script 71 mmbn5s {
+	"AlphaBug"
+	end
+}
+script 72 mmbn5s {
+	"N.O"
+	end
+}
+script 73 mmbn5s {
+	"Eleball"
+	end
+}
+script 74 mmbn5s {
+	"Dharma"
+	end
+}
+script 75 mmbn5s {
+	"Weather"
+	end
+}
+script 76 mmbn5s {
+	"Elmperor"
+	end
+}
+script 77 mmbn5s {
+	"CirKill"
+	end
+}
+script 78 mmbn5s {
+	"Drixol"
+	end
+}
+script 79 mmbn5s {
+	"Batty"
+	end
+}
+script 80 mmbn5s {
+	"Appley"
+	end
+}
+script 81 mmbn5s {
+	"WoodMan"
+	end
+}
+script 82 mmbn5s {
+	"ElecMan"
+	end
+}
+script 83 mmbn5s {
+	"ProtoMan"
+	end
+}
+script 84 mmbn5s {
+	"BombMan"
+	end
+}
+script 85 mmbn5s {
+	"MagicMan"
+	end
+}
+script 86 mmbn5s {
+	"HeatMan"
+	end
+}
+script 87 mmbn5s {
+	"GateMan"
+	end
+}
+script 88 mmbn5s {
+	"FlashMan"
+	end
+}
+script 89 mmbn5s {
+	"DrillMan"
+	end
+}
+script 90 mmbn5s {
+	"KingMan"
+	end
+}
+script 91 mmbn5s {
+	"AquaMan"
+	end
+}
+script 92 mmbn5s {
+	"WindMan"
+	end
+}
+script 93 mmbn5s {
+	"LaserMan"
+	end
+}
+script 94 mmbn5s {
+	"Colonel"
+	end
+}
+script 95 mmbn5s {
+	"TmhkMan"
+	end
+}
+script 96 mmbn5s {
+	"""
+	Lan's
+	Custom
+	"""
+	end
+}
+script 97 mmbn5s {
+	"""
+	Dex's
+	Custom
+	"""
+	end
+}
+script 98 mmbn5s {
+	"""
+	Maddy's
+	Custom
+	"""
+	end
+}
+script 99 mmbn5s {
+	"""
+	Yahoot's
+	Bug
+	Repair
+	"""
+	end
+}
+script 100 mmbn5s {
+	"""
+	Tora's
+	Tactics
+	"""
+	end
+}
+script 101 mmbn5s {
+	"""
+	Life-
+	Virus
+	"""
+	end
+}
+script 102 mmbn5s {
+	"Gospel"
+	end
+}
+script 103 mmbn5s {
+	"Serenade"
+	end
+}
+script 104 mmbn5s {
+	"Alpha"
+	end
+}
+script 105 mmbn5s {
+	"BassGS"
+	end
+}
+script 106 mmbn5s {
+	"Duo"
+	end
+}
+script 107 mmbn5s {
+	"BassXX"
+	end
+}
+script 108 mmbn5s {
+	"""
+	Nebula-
+	Gray
+	"""
+	end
+}
+script 109 mmbn5s {
+	"""
+	Dad's
+	Repair
+	Program
+	"""
+	end
+}
+script 110 mmbn5s {
+	"""
+	Hub
+	Hikari
+	"""
+	end
+}
+script 111 mmbn5s {
+	"""
+	Bass-
+	Cross
+	MegaMan
+	"""
+	end
+}
+script 116 mmbn5s {
+	"Attack  \nSpeed   \nCharge  \nCustom  \nMegFld  \nGigFld  \nSoulTm  "
+	end
+}
+script 117 mmbn5s {
+	printModBuffer
+		length = 0
+		buffer = 1
+	end
+}
+script 119 mmbn5s {
+	"("
+	printModBuffer
+		length = 0
+		buffer = 1
+	"MB)"
+	end
+}
+@archive 6FF808
+@size 145
+script 0 mmbn5s {
+	"HP+"
+	printModBuffer
+		length = 0
+		buffer = 1
+	end
+}
+script 1 mmbn5s {
+	"HP+"
+	printModBuffer
+		length = 0
+		buffer = 1
+	"%"
+	end
+}
+script 2 mmbn5s {
+	"HP-"
+	printModBuffer
+		length = 0
+		buffer = 1
+	end
+}
+script 3 mmbn5s {
+	"HP-"
+	printModBuffer
+		length = 0
+		buffer = 1
+	"%"
+	end
+}
+script 4 mmbn5s {
+	"NormBody"
+	end
+}
+script 5 mmbn5s {
+	"FireBody"
+	end
+}
+script 6 mmbn5s {
+	"AquaBody"
+	end
+}
+script 7 mmbn5s {
+	"ElecBody"
+	end
+}
+script 8 mmbn5s {
+	"WoodBody"
+	end
+}
+script 9 mmbn5s {
+	"Attack+"
+	printModBuffer
+		length = 0
+		buffer = 1
+	end
+}
+script 10 mmbn5s {
+	"Attack-"
+	printModBuffer
+		length = 0
+		buffer = 1
+	end
+}
+script 11 mmbn5s {
+	"Attack[cross]"
+	printModBuffer
+		length = 0
+		buffer = 1
+	end
+}
+script 12 mmbn5s {
+	"Speed+"
+	printModBuffer
+		length = 0
+		buffer = 1
+	end
+}
+script 13 mmbn5s {
+	"Speed-"
+	printModBuffer
+		length = 0
+		buffer = 1
+	end
+}
+script 14 mmbn5s {
+	"Charge+"
+	printModBuffer
+		length = 0
+		buffer = 1
+	end
+}
+script 15 mmbn5s {
+	"Charge-"
+	printModBuffer
+		length = 0
+		buffer = 1
+	end
+}
+script 16 mmbn5s {
+	"Custom+"
+	printModBuffer
+		length = 0
+		buffer = 1
+	end
+}
+script 17 mmbn5s {
+	"Custom-"
+	printModBuffer
+		length = 0
+		buffer = 1
+	end
+}
+script 18 mmbn5s {
+	"MegFld+"
+	printModBuffer
+		length = 0
+		buffer = 1
+	end
+}
+script 19 mmbn5s {
+	"MegFld-"
+	printModBuffer
+		length = 0
+		buffer = 1
+	end
+}
+script 20 mmbn5s {
+	"GigFld+"
+	printModBuffer
+		length = 0
+		buffer = 1
+	end
+}
+script 21 mmbn5s {
+	"GigFld-"
+	printModBuffer
+		length = 0
+		buffer = 1
+	end
+}
+script 22 mmbn5s {
+	"SoulTm+"
+	printModBuffer
+		length = 0
+		buffer = 1
+	end
+}
+script 23 mmbn5s {
+	"SoulTm-"
+	printModBuffer
+		length = 0
+		buffer = 1
+	end
+}
+script 24 mmbn5s {
+	"SprArmr"
+	end
+}
+script 25 mmbn5s {
+	"StatGrd"
+	end
+}
+script 26 mmbn5s {
+	"FlotShoe"
+	end
+}
+script 27 mmbn5s {
+	"AirShoe"
+	end
+}
+script 28 mmbn5s {
+	"UnderSht"
+	end
+}
+script 29 mmbn5s {
+	"B-Shield"
+	end
+}
+script 30 mmbn5s {
+	"B-Sword"
+	end
+}
+script 31 mmbn5s {
+	"B-Bomb"
+	end
+}
+script 32 mmbn5s {
+	"B-Crack"
+	end
+}
+script 33 mmbn5s {
+	"B-Reflec"
+	end
+}
+script 34 mmbn5s {
+	"B-Buster"
+	end
+}
+script 35 mmbn5s {
+	"TriBustr"
+	end
+}
+script 36 mmbn5s {
+	"CrakBust"
+	end
+}
+script 37 mmbn5s {
+	"WtrBust"
+	end
+}
+script 38 mmbn5s {
+	"IceBust"
+	end
+}
+script 39 mmbn5s {
+	"GrasBust"
+	end
+}
+script 40 mmbn5s {
+	"SwmpBust"
+	end
+}
+script 41 mmbn5s {
+	"AddBustr"
+	end
+}
+script 42 mmbn5s {
+	"BvInvis"
+	end
+}
+script 43 mmbn5s {
+	"BvLongS"
+	end
+}
+script 44 mmbn5s {
+	"BvThundr"
+	end
+}
+script 45 mmbn5s {
+	"BvHeatS"
+	end
+}
+script 46 mmbn5s {
+	"BvYoYo"
+	end
+}
+script 47 mmbn5s {
+	"BvVacuum"
+	end
+}
+script 48 mmbn5s {
+	"BvBoomer"
+	end
+}
+script 49 mmbn5s {
+	"BvWshot"
+	end
+}
+script 50 mmbn5s {
+	"BvKatana"
+	end
+}
+script 51 mmbn5s {
+	"BvFireAm"
+	end
+}
+script 52 mmbn5s {
+	"BvPulsar"
+	end
+}
+script 53 mmbn5s {
+	"BvPoltr"
+	end
+}
+script 54 mmbn5s {
+	"BvWideS"
+	end
+}
+script 55 mmbn5s {
+	"BvMiniBm"
+	end
+}
+script 56 mmbn5s {
+	"BvCanBal"
+	end
+}
+script 57 mmbn5s {
+	"BvTrnado"
+	end
+}
+script 58 mmbn5s {
+	"BvZapRng"
+	end
+}
+script 59 mmbn5s {
+	"BvBubSht"
+	end
+}
+script 60 mmbn5s {
+	"BvMonBld"
+	end
+}
+script 61 mmbn5s {
+	"BvAirHoc"
+	end
+}
+script 62 mmbn5s {
+	"BvCircG"
+	end
+}
+script 63 mmbn5s {
+	"BvDrlArm"
+	end
+}
+script 64 mmbn5s {
+	"BvWideB"
+	end
+}
+script 65 mmbn5s {
+	"BvBlkBom"
+	end
+}
+script 66 mmbn5s {
+	"BvSeaSed"
+	end
+}
+script 67 mmbn5s {
+	"BvCcann"
+	end
+}
+script 68 mmbn5s {
+	"BvDarkS"
+	end
+}
+script 69 mmbn5s {
+	"BvChrgS"
+	end
+}
+script 70 mmbn5s {
+	"BvSbustr"
+	end
+}
+script 71 mmbn5s {
+	"BvHelzR"
+	end
+}
+script 72 mmbn5s {
+	"BvShield"
+	end
+}
+script 73 mmbn5s {
+	"BvRflect"
+	end
+}
+script 74 mmbn5s {
+	"CSconfus"
+	end
+}
+script 75 mmbn5s {
+	"CSstun"
+	end
+}
+script 76 mmbn5s {
+	"CSchpdst"
+	end
+}
+script 77 mmbn5s {
+	"CSbreak"
+	end
+}
+script 78 mmbn5s {
+	"CSblind"
+	end
+}
+script 79 mmbn5s {
+	"CScrack"
+	end
+}
+script 80 mmbn5s {
+	"CShole"
+	end
+}
+script 81 mmbn5s {
+	"CSlava"
+	end
+}
+script 82 mmbn5s {
+	"CSswamp"
+	end
+}
+script 83 mmbn5s {
+	"CSbrrdlt"
+	end
+}
+script 84 mmbn5s {
+	"CSreset"
+	end
+}
+script 85 mmbn5s {
+	"CSHPbug"
+	end
+}
+script 86 mmbn5s {
+	"CSeffect"
+	end
+}
+script 87 mmbn5s {
+	"Fbarrier"
+	end
+}
+script 88 mmbn5s {
+	"Fbarr100"
+	end
+}
+script 89 mmbn5s {
+	"Fbarr200"
+	end
+}
+script 90 mmbn5s {
+	"Fbblwrap"
+	end
+}
+script 91 mmbn5s {
+	"FlifeAur"
+	end
+}
+script 92 mmbn5s {
+	"Fbarrier"
+	end
+}
+script 93 mmbn5s {
+	"Bく-Shld"
+	end
+}
+script 94 mmbn5s {
+	"Bく-Guard"
+	end
+}
+script 95 mmbn5s {
+	"Bく-CurS"
+	end
+}
+script 96 mmbn5s {
+	"Bく-Reflc"
+	end
+}
+script 97 mmbn5s {
+	"Bく-AntiD"
+	end
+}
+script 98 mmbn5s {
+	"Bく-"
+	end
+}
+script 99 mmbn5s {
+	"ChpRecov"
+	end
+}
+script 100 mmbn5s {
+	"ChpRecov"
+	end
+}
+script 101 mmbn5s {
+	"FstGauge"
+	end
+}
+script 102 mmbn5s {
+	"SloGauge"
+	end
+}
+script 103 mmbn5s {
+	"NrmGauge"
+	end
+}
+script 104 mmbn5s {
+	"Rush"
+	end
+}
+script 105 mmbn5s {
+	"Beat"
+	end
+}
+script 106 mmbn5s {
+	"Tango"
+	end
+}
+script 107 mmbn5s {
+	"SneakRun"
+	end
+}
+script 108 mmbn5s {
+	"OilBody"
+	end
+}
+script 109 mmbn5s {
+	"Fish"
+	end
+}
+script 110 mmbn5s {
+	"Battery"
+	end
+}
+script 111 mmbn5s {
+	"Jungle"
+	end
+}
+script 112 mmbn5s {
+	"Search"
+	end
+}
+script 113 mmbn5s {
+	"Millions"
+	end
+}
+script 114 mmbn5s {
+	"AutoHeal"
+	end
+}
+script 115 mmbn5s {
+	"MegVirus"
+	end
+}
+script 116 mmbn5s {
+	"MoveBug"
+	end
+}
+script 117 mmbn5s {
+	"MoveCrak"
+	end
+}
+script 118 mmbn5s {
+	"MoveHole"
+	end
+}
+script 119 mmbn5s {
+	"MoveWatr"
+	end
+}
+script 120 mmbn5s {
+	"MoveIce"
+	end
+}
+script 121 mmbn5s {
+	"MoveGras"
+	end
+}
+script 122 mmbn5s {
+	"MoveMag"
+	end
+}
+script 123 mmbn5s {
+	"MoveHoly"
+	end
+}
+script 124 mmbn5s {
+	"MoveSwmp"
+	end
+}
+script 125 mmbn5s {
+	"MoveNorm"
+	end
+}
+script 126 mmbn5s {
+	"PanelBug"
+	end
+}
+script 127 mmbn5s {
+	"BstBlank"
+	end
+}
+script 128 mmbn5s {
+	"DmgBlind"
+	end
+}
+script 129 mmbn5s {
+	"DmgConfs"
+	end
+}
+script 130 mmbn5s {
+	"DmgHPbug"
+	end
+}
+script 131 mmbn5s {
+	"DmgBug"
+	end
+}
+script 132 mmbn5s {
+	"CustDmg"
+	end
+}
+script 133 mmbn5s {
+	"EmoBug"
+	end
+}
+script 134 mmbn5s {
+	"BatHPbug"
+	end
+}
+script 135 mmbn5s {
+	"CusHPbug"
+	end
+}
+script 136 mmbn5s {
+	"StatBug"
+	end
+}
+script 137 mmbn5s {
+	"BugStop"
+	end
+}
+script 138 mmbn5s {
+	"Collect"
+	end
+}
+script 139 mmbn5s {
+	"Humor"
+	end
+}
+script 140 mmbn5s {
+	"Chivalry"
+	end
+}
+script 141 mmbn5s {
+	"AutoRan"
+	end
+}
+script 142 mmbn5s {
+	"SoulClen"
+	end
+}
+script 143 mmbn5s {
+	"EncoBug"
+	end
+}
+script 144 mmbn5s {
+	"ColecBug"
+	end
+}
+@archive 6FFCD8
+@size 5
+script 1 mmbn5 {
+	msgOpen
+	"Turn all mods OFF?\n"
+	positionOptionHorizontal
+		width = 8
+	option
+		brackets = 0
+		left = 1
+		right = 1
+		up = 0
+		down = 0
+	space
+		count = 1
+	" Yes  "
+	option
+		brackets = 0
+		left = 0
+		right = 0
+		up = 1
+		down = 1
+	space
+		count = 1
+	" No"
+	select
+		default = 0
+		BSeparate = false
+		disableB = false
+		clear = false
+		targets = [
+			jump = continue,
+			jump = continue,
+			jump = continue
+		]
+	end
+}
+script 2 mmbn5 {
+	msgOpen
+	"Turn all mods ON?\n"
+	positionOptionHorizontal
+		width = 8
+	option
+		brackets = 0
+		left = 1
+		right = 1
+		up = 0
+		down = 0
+	space
+		count = 1
+	" Yes  "
+	option
+		brackets = 0
+		left = 0
+		right = 0
+		up = 1
+		down = 1
+	space
+		count = 1
+	" No"
+	select
+		default = 0
+		BSeparate = false
+		disableB = false
+		clear = false
+		targets = [
+			jump = continue,
+			jump = continue,
+			jump = continue
+		]
+	end
+}
+script 3 mmbn5 {
+	msgOpen
+	"Delete this mod?\n"
+	positionOptionHorizontal
+		width = 8
+	option
+		brackets = 0
+		left = 1
+		right = 1
+		up = 0
+		down = 0
+	space
+		count = 1
+	" Yes  "
+	option
+		brackets = 0
+		left = 0
+		right = 0
+		up = 1
+		down = 1
+	space
+		count = 1
+	" No"
+	select
+		default = 0
+		BSeparate = false
+		disableB = false
+		clear = false
+		targets = [
+			jump = continue,
+			jump = continue,
+			jump = continue
+		]
+	end
+}
+script 4 mmbn5 {
+	msgOpen
+	"""
+	Delete all mods?
+	Are you sure?
+	
+	"""
+	positionOptionHorizontal
+		width = 8
+	option
+		brackets = 0
+		left = 1
+		right = 1
+		up = 0
+		down = 0
+	space
+		count = 1
+	" Yes  "
+	option
+		brackets = 0
+		left = 0
+		right = 0
+		up = 1
+		down = 1
+	space
+		count = 1
+	" No"
+	select
+		default = 0
+		BSeparate = false
+		disableB = false
+		clear = false
+		targets = [
+			jump = continue,
+			jump = continue,
+			jump = continue
+		]
+	end
+}
