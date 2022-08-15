@@ -1,0 +1,14 @@
+.definelabel openbus0, 0x8014188
+.definelabel openbus1, 0x8014246
+.definelabel openbus2, 0x801432c
+.definelabel openbus3, 0x80c7748
+.definelabel openbus4, 0x80c9aa4
+.definelabel openbus5, 0x80cfe44
+.definelabel openbus6, 0x80cffae
+.definelabel openbus7, 0x80d4e8c
+.definelabel openbus8, 0x80d656c
+.definelabel openbus9, 0x80d7460
+.definelabel openbus10, 0x80d89a0
+.definelabel openbus11, 0x80d9a30
+.definelabel openbus12, 0x80d9c58
+.definelabel openbus13, 0x80d9dde

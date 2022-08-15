@@ -10,7 +10,8 @@ import sys
 import re
 import struct
 
-games = ["exe4bm","exe4rs","bn4bm","bn4rs"]	# must be manually defined, values are comma separated
+#games = ["exe4bm","exe4rs","bn4bm","bn4rs","exe5tb","exe5tc","bn5tb","bn5tc"]	# must be manually defined, values are comma separated
+games = ["exe5tb","exe5tc","bn5tb","bn5tc"]
 
 pattern = b"\xFF\x20\x68\x74(.)\xF7(.)(.)(.)\xF7(.)(.)(.)\xF7(.)(.)"
 find = re.compile(pattern)
