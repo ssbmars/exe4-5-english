@@ -8366,7 +8366,7 @@ script 16 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	A laser
+	Sus laser
 	pierces
 	1 thru!
 	"""
@@ -8380,7 +8380,7 @@ script 17 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	A laser
+	Sus laser
 	pierces
 	1 thru!
 	"""
@@ -8394,7 +8394,7 @@ script 18 mmbn4 {
 	textSpeed
 		delay = 0
 	"""
-	A laser
+	Sus laser
 	pierces
 	1 thru!
 	"""
